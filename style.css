@@ -1,0 +1,37 @@
+.outer_box{
+    height: 577px;
+    width: 577px;
+    border:solid 1px black;
+    background-color: aqua;
+    margin: auto;
+}
+.chess{
+    margin-left:400px;
+}
+.row_box{
+    height: 70px;
+    width: 577px;
+    border: solid 1px black;
+}
+.black_box{
+    height: 70px;
+    width: 70px;
+    border: solid 1px black;
+    background-color:white;
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 50;
+    
+}
+.white_box{
+    height: 70px;
+    width: 70px;
+    border: solid 1px white;
+    background-color:black;
+    float: left;
+    color:black;
+    text-align: center;
+    font-size: 50;
+    
+}
